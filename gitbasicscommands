@@ -1,0 +1,12 @@
+git status
+change the file
+git status
+git diff
+git add filename
+git commit -m 'commit message'
+git log
+git push origin branch name
+git checkout -b branchname
+git checkout branch
+git branch 
+git pull origin branchname
